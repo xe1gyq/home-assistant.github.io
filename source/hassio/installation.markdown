@@ -47,7 +47,7 @@ When you use this installation method, some add-ons will not be available, and t
 </p>
 
 A detailed guide about running Hass.io as a virtual machine is available in the [blog](/blog/2017/11/29/hassio-virtual-machine/).
-
+test
 [Etcher]: https://etcher.io/
 [resinos-network]: https://docs.resin.io/deployment/network/2.0.0/
 [pi1]: https://github.com/home-assistant/hassio-build/releases/download/1.3/resinos-hassio-1.3-raspberrypi.img.bz2
