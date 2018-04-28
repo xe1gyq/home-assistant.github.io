@@ -30,6 +30,10 @@ You can find a list of frequently asked questions (and their answers) in [this b
 
 ### {% linkable_title Enabling the cloud %}
 
+<p class='note'>
+The minimum supported version of Home Assistant is 0.65.6.
+</p>
+
 The Home Assistant Cloud is enabled by default. If not, add this to your configuration:
 
 ```yaml
